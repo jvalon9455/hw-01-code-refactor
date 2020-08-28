@@ -51,4 +51,7 @@ Discord study rooms
 Slack ask the class
 Instructors
 TAs
+<<<<<<< HEAD
 
+=======
+>>>>>>> 82afe5da0a32dc6bfa5c4425b470a4293c9b8b01
